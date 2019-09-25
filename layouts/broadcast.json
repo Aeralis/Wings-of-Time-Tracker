@@ -1,0 +1,47 @@
+{
+	"tracker_broadcast":
+	{
+		"type": "array",
+		"dropshadow": true,
+		"margin": "0,0",
+		"content":
+		[
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content":
+				[
+					{
+						"type": "itemgrid",
+						"item_margin": "5,5",
+						"h_alignment": "center",
+						"item_size": 48,
+						"rows":
+						[
+							[ "crono", "lucca", "marle", "frog" ],
+							[ "robo", "ayla", "magus", "masamune" ],
+							[ "benthilt", "bentsword", "dreamstone", "heromedal" ],
+							[ "pendant", "gatekey", "bikekey", "tomapop" ],
+							[ "jerky", "moonstone", "prismshard", "tools" ],
+							[ "clone", "ctrigger", "rubyknife", "roboribbon" ]
+						]
+					},
+					{
+						"type": "container",
+						"margin": "0,5,0,0",
+						"content":
+						{
+							"type": "recentpins",
+							"h_alignment": "stretch",
+							"v_alignment": "center",
+							"orientation": "vertical",
+							"compact": true,
+							"num_items": 2
+						}
+					}
+				]
+			}
+		]
+	}
+}

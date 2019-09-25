@@ -1,0 +1,19 @@
+{
+	"name": "Wings of Time Map Tracker",
+	"game_name": "Chrono Trigger Randomizer",
+	"platform": "snes",
+	"package_version": "1.0.2",
+	"package_uid": "ctrando_aeralis",
+	"author": "Aeralis",
+	"variants":
+	{
+		"standard":
+		{
+			"display_name": "Map Tracker"
+		},
+		"items_only":
+		{
+			"display_name": "Item Tracker"
+		}
+	}
+}
