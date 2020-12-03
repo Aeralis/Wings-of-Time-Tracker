@@ -1,5 +1,5 @@
 {
-  "name": "Tracker Packs by TheBigSalarius and Aeralis",
+  "name": "Tracker Packs by TheBigSalarius, Aeralis & Anguirel",
   "packages": [
     {
       "name": "Wings of Time Map Tracker",
@@ -22,9 +22,9 @@
     },
     {
       "name": "Jets of Time Map Tracker",
-      "author": "TheBigSalarius, Aeralis",
+      "author": "TheBigSalarius, Aeralis, Anguirel",
       "game_name": "Chrono Trigger Randomizer",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "flags": [ "map", "pins", "autotracker"],
       "required_app_version": "2.3.6.5",
       "uid": "CT_JoT_TheBigSalarius",
