@@ -24,7 +24,7 @@
       "name": "Jets of Time Map Tracker",
       "author": "TheBigSalarius, Aeralis, Anguirel",
       "game_name": "Chrono Trigger Randomizer",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "flags": [ "map", "pins", "autotracker"],
       "required_app_version": "2.3.6.5",
       "uid": "CT_JoT_TheBigSalarius",
