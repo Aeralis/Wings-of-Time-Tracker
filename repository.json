@@ -24,14 +24,15 @@
       "name": "Jets of Time Map Tracker",
       "author": "TheBigSalarius, Aeralis, Anguirel",
       "game_name": "Chrono Trigger Randomizer",
-      "version": "2.0.2",
+      "version": "2.1.0",
       "flags": [ "map", "pins", "autotracker"],
       "required_app_version": "2.3.6.5",
       "uid": "CT_JoT_TheBigSalarius",
       "link": "https://github.com/Aeralis/Jets-of-Time-Tracker/raw/master/CT_JoT_TheBigSalarius.zip",
       "variants": [
         {
-          "name": "Item Tracker"
+          "name": "Item Tracker",
+          "flags": [ "autotracker"]
         },
         {
           "name": "Map Tracker",
@@ -46,7 +47,11 @@
           "flags": [ "map", "pins", "autotracker"]
         },
         {
-          "name": "Chronosanity",
+          "name": "Legacy Of Cyrus",
+          "flags": [ "map", "pins", "autotracker"]
+        },
+        {
+          "name": "Vanilla Rando",
           "flags": [ "map", "pins", "autotracker"]
         }
       ]
